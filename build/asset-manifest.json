@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dac773d.css",
+    "main.js": "/static/js/main.c5ba4448.js",
+    "static/js/787.1180ac43.chunk.js": "/static/js/787.1180ac43.chunk.js",
+    "static/media/satellite.svg": "/static/media/satellite.82c5950a2d24b5a240fb6be26d34aea4.svg",
+    "static/media/spacex_logo.svg": "/static/media/spacex_logo.f9ed9a304100c66649b849bc023f692c.svg",
+    "index.html": "/index.html",
+    "main.2dac773d.css.map": "/static/css/main.2dac773d.css.map",
+    "main.c5ba4448.js.map": "/static/js/main.c5ba4448.js.map",
+    "787.1180ac43.chunk.js.map": "/static/js/787.1180ac43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dac773d.css",
+    "static/js/main.c5ba4448.js"
+  ]
+}
